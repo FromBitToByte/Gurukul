@@ -18,12 +18,22 @@ const Discussion = require("./models/Discussion");
 const SuperUser = require("./models/SuperUser");
 const Teacher = require("./models/Teacher");
 const Student = require("./models/Student");
-
+require('dotenv').config()
 const app=express();
 const PORT = process.env.PORT || 3000;
 
 const server=http.createServer(app)
 const io = socketio(server);
+
+app.enable('trust proxy')
+app.use(function(request, response, next) {
+
+  if (process.env.NODE_ENV != 'development' && !request.secure) {
+     return response.redirect("https://" + request.headers.host + request.url);
+  }
+  next();
+})
+
 
 app.use(express.json());
 app.set("view engine", "ejs");
@@ -45,6 +55,9 @@ require("./middleware/PassportMiddleware");
 app.use(passport.initialize());
 
 app.use(passport.session());
+
+
+
 
 app.get("/",(req,res)=>{
   if (req.session.token == null) {

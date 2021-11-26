@@ -14,6 +14,7 @@
 ## Homepage
 * Login 
 	* Users can login as Super User/Admin, Teacher and Student using google authentication.
+	* There's no Register/Signup page, because only Super User/Admin can enroll teachers and Students in the organization, and there could be only one Admin.
 	
 ## Dashboard
 * Super User Dashboard

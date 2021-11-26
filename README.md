@@ -1,6 +1,36 @@
 # Gurukul - Education Portal for Teachers and Students.
 ## Submission for Microsoft Engage 2021 🌟
 
+## Table of Contents 📕
+- [Features](#features-)
+  	- [Homepage](#homepage)
+  	- [Dashboard](#dashboard)
+  	- [Meet](#meet)
+
+# Features :
+
+## Homepage
+* Login 
+	* Users can login as Super User/Admin, Teacher and Student using google authentication.
+	
+## Dashboard
+* Super User Dashboard
+	* Super user has permission to add `Teachers` and `Students`.
+	* Super user can view details of discussion and test rooms created by teachers.
+	* Super user can view profile of any student.
+* Teacher Dashboard
+	* Teacher can create tests and discussion rooms.
+	* Techer can choose which student can access the tests and discussion rooms.
+	* Teacher can view profile of any student.
+	* Can enter discussion rooms.
+* Student Dashboard
+	* Student can attempt tests and for every correct answer gets `10 reward points`.
+	* Student can enter authorized discussion room.
+	* In Discussion he/she can video call and chat with teachers and other students.
+	* Student can view his/her own profile and of other students.
+	* Redeem goodies based on reward points collected.
+
+
 ## Features and Interfaces
 
 1. ### Landing Page  

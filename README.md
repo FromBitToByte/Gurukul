@@ -1,5 +1,4 @@
 # Gurukul - Education Portal for Teachers and Students.
-## Submission for Microsoft Engage 2021 🌟
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FromBitToByte/Gurukul?logo=github&style=for-the-badge)](https://github.com/Apurva-tech/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/FromBitToByte/Gurukul?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
@@ -15,6 +14,8 @@
   	- [Test/Quiz](#Test/Quiz)
   	- [DiscussionRooms](#DiscussionRooms)
   	- [Redeem](#Redeem)
+- [Screenshots](#Screenshots-)
+
 
 # Features :
 
@@ -67,17 +68,23 @@
 
 
 
-## Features and Interfaces
+## Screenshots
 
 1. ### Landing Page  
-   - Seamless landing page with `Login with Google` button for user Login. 
+   - `Login with Google` button for user Login. 
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/landingPage.png)
 2. #### Dashboard.
    -  `Teacher's Dashboard` showing scheduled meetings details. 
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/teacherDashboard.png)
 3. ### Schedule Discussions and Tests.
-   - Teacher can Create Discussion and Test rooms, choose students who are allowed to enter room.
+   - Teacher can schedule Discussion and Tests
     - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/scheduleTests.png)
 4. ### Create Test.
-   - Seamless Page that allows teachers to create question paper. 
+   - Teacher can add/remove mcq questions.
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/createTest.png)
+5. ### Attempt Test.
+   - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/giveTest.png)
+
+
+
+   

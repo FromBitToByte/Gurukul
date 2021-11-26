@@ -13,7 +13,7 @@
   	- [Homepage](#homepage)
   	- [Dashboard](#dashboard)
   	- [Test/Quiz](#Test/Quiz)
-  	- [DiscussionRooms](#DiscussionRooms)
+  	- [Discussion Rooms](#Discussion-Rooms)
   	- [Redeem](#Redeem)
 - [Screenshots](#Screenshots-)
 - [Teach Stack](#Teach-Stack-)
@@ -61,7 +61,7 @@
 * Each questions has to be answered within a time limit(20 seconds) .
 * Each question has 10 reward points associated.
 	
-## DiscussionRooms
+## Discussion Rooms
 * Has video call and chat Features.
 * Teachers can also share his/her screen.
 * Teacher can choose which student can access a particular discussion room.

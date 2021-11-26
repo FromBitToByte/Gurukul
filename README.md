@@ -1,6 +1,17 @@
 # Gurukul - Education Portal for Teachers and Students.
 ## Submission for Microsoft Engage 2021 🌟
 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FromBitToByte/Gurukul?logo=github&style=for-the-badge)](https://github.com/Apurva-tech/) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/FromBitToByte/Gurukul?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
+[![GitHub stars](https://img.shields.io/github/stars/FromBitToByte/Gurukul?style=for-the-badge)]https://github.com/FromBitToByte/Gurukul/stargazers) 
+[![My stars](https://img.shields.io/github/stars/Apurva-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)]https://github.com/FromBitToByte/Gurukul/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/FromBitToByte/Gurukul?style=for-the-badge&logo=git)]https://github.com/FromBitToByte/Gurukul/network)
+[![Code size](https://img.shields.io/github/languages/code-size/FromBitToByte/Gurukul?style=for-the-badge)](https://github.com/FromBitToByte/Gurukul)
+[![Languages](https://img.shields.io/github/languages/count/FromBitToByte/Gurukul?style=for-the-badge)](https://github.com/FromBitToByte/Gurukul)
+[![Top](https://img.shields.io/github/languages/top/FromBitToByte/Gurukul?style=for-the-badge&label=Top%20Languages)](https://github.com/FromBitToByte/Gurukul)
+[![Issues](https://img.shields.io/github/issues/FromBitToByte/Gurukul?style=for-the-badge&label=Issues)](https://github.com/FromBitToByte/Gurukul)
+[![Watchers]( https://img.shields.io/github/watchers/FromBitToByte/Gurukul?label=Watch&style=for-the-badge)]https://github.com/FromBitToByte/Gurukul/)
+
 ## Table of Contents 📕
 - [Features](#features-)
   	- [Homepage](#homepage)

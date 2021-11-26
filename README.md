@@ -101,3 +101,16 @@
    
 # Class Diagram :
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/classDiagram.png)
+
+# Installation Instructions :
+1. `git clone https://github.com/FromBitToByte/Gurukul.git` 
+2. `cd ./gurukul`
+3. Install node dependencies 
+   - `npm install`
+4. Replace **clientID**, **clientSecret** and **mongoURI** with your configurations.
+5. Create a `.env` file 
+   - Add relevant credentials
+   - `NODE_ENV = development` 
+5. `npm run dev`
+6. The app is now running at http://localhost:3000 
+

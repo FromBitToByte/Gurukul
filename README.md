@@ -18,6 +18,7 @@
 ## Dashboard
 * Super User Dashboard
 	* **Add Teachers and Students** to the organization.
+		* points
 	* View details of discussion and test rooms created by teachers.
 	* Search any student by his/her emailID and View his/her profile.
 * Teacher Dashboard

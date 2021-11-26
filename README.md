@@ -67,8 +67,7 @@
 	
 
 
-
-## Screenshots
+# Screenshots :
 
 1. ### Landing Page  
    - `Login with Google` button for user Login. 

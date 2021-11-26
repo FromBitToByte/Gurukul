@@ -17,19 +17,18 @@
 	
 ## Dashboard
 * Super User Dashboard
-	* Super user has permission to **add Teachers and Students**.
-	* Super user can view details of discussion and test rooms created by teachers.
-	* Super user can view profile of any student.
+	* **Add Teachers and Students** to the organization.
+	* View details of discussion and test rooms created by teachers.
+	* Search any student by his/her emailID and View his/her profile.
 * Teacher Dashboard
-	* Teacher can **create tests and discussion rooms**.
-	* Techer can choose which student can access the tests and discussion rooms.
-	* Teacher can view profile of any student.
-	* Can enter discussion rooms.
+	* **Create/Edit tests and discussion rooms**.
+	* Choose which student can access the tests and discussion rooms.
+	* Search any student by his/her emailID and View his/her profile.
 * Student Dashboard
-	* Student can **attempt tests** and for every correct answer gets `10 reward points`.
-	* Student can enter authorized discussion room.
+	* **Attempt mcq tests** and for every correct answer gets `10 reward points`.
+	* Enter authorized discussion room.
 	* In Discussion he/she can video call and chat with teachers and other students.
-	* Student can view his/her own profile and of other students.
+	* View his/her own profile and of other students.
 	* Redeem goodies based on reward points collected.
 
 ## Test/Quiz
@@ -37,8 +36,8 @@
 * Teacher can choose which student can access a particular test.
 	
 ## DiscussionRooms
-* In discussion rooms students and teacher can chat with each other, video call and Teacher can share the screen.
-* Teacher can schedule discussion rooms.
+* Has video call and chat Features.
+* Teachers can also share his/her screen.
 * Teacher can choose which student can access a particular discussion room.
 
 ## Redeem

@@ -6,7 +6,7 @@
   	- [Homepage](#homepage)
   	- [Dashboard](#dashboard)
   	- [Test/Quiz](#Test/Quiz)
-  	- [Discussion Rooms](#Discussion Rooms)
+  	- [DiscussionRooms](#DiscussionRooms)
 
 # Features :
 
@@ -35,7 +35,7 @@
 	* Contains mcq questions with one answer and every question has 10 reward points associated.
 	* Teacher can choose which student can access a particular test.
 	
-## Discussion Rooms
+## DiscussionRooms
 	* Teacher can schedule discussion rooms.
 	* Teacher can choose which student can access a particular discussion room.
 	* In discussion rooms students and teacher can chat with each other, video call and Teacher can share the screen.

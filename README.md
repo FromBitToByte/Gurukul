@@ -15,6 +15,7 @@
   	- [DiscussionRooms](#DiscussionRooms)
   	- [Redeem](#Redeem)
 - [Screenshots](#Screenshots-)
+- [Teach Stack](#Teach Stack-)
 
 
 # Features :
@@ -85,5 +86,14 @@
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/giveTest.png)
 
 
+# Teach Stack :
+   - Nodejs
+   - EJS
+   - HTML
+   - CSS
+   - Bootstrap
+   - Socket.io
+   - Peerjs
+   - MongoDB
 
    

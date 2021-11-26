@@ -7,6 +7,7 @@
   	- [Dashboard](#dashboard)
   	- [Test/Quiz](#Test/Quiz)
   	- [DiscussionRooms](#DiscussionRooms)
+  	- [Redeem](#Redeem)
 
 # Features :
 
@@ -40,6 +41,8 @@
 * Teacher can choose which student can access a particular discussion room.
 * In discussion rooms students and teacher can chat with each other, video call and Teacher can share the screen.
 
+## Redeem
+* Students can raise ticket for redeeming goodies based on reward points collected by attempting quizzes.
 	
 
 

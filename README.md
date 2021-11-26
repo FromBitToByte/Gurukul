@@ -15,8 +15,10 @@
   	- [DiscussionRooms](#DiscussionRooms)
   	- [Redeem](#Redeem)
 - [Screenshots](#Screenshots-)
+- [Teach Stack](#Teach-Stack-)
 
-
+# Product Overview :
+ Gurukul is an `Education Portal` that helps students to stay `engaged` with their studies. Gurukul allows Teachers can create tests and students can attempt those test. For every correctly marked question the student gets 10 reward points. Student can use these reward points to redeem goodies available on the portal. 
 # Features :
 
 ## Homepage
@@ -67,8 +69,7 @@
 	
 
 
-
-## Screenshots
+# Screenshots :
 
 1. ### Landing Page  
    - `Login with Google` button for user Login. 
@@ -86,5 +87,14 @@
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/giveTest.png)
 
 
+# Teach Stack :
+   - Nodejs
+   - EJS
+   - HTML
+   - CSS
+   - Bootstrap
+   - Socket.io
+   - Peerjs
+   - MongoDB
 
    

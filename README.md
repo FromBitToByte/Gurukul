@@ -33,13 +33,13 @@
 	* Redeem goodies based on reward points collected.
 
 ## Test/Quiz
-* Contains mcq questions with one answer and every question has 10 reward points associated.
+* Contains mcq questions with one correct answer and every question has 10 reward points associated.
 * Teacher can choose which student can access a particular test.
 	
 ## DiscussionRooms
+* In discussion rooms students and teacher can chat with each other, video call and Teacher can share the screen.
 * Teacher can schedule discussion rooms.
 * Teacher can choose which student can access a particular discussion room.
-* In discussion rooms students and teacher can chat with each other, video call and Teacher can share the screen.
 
 ## Redeem
 * Students can raise ticket for redeeming goodies based on reward points collected by attempting quizzes.

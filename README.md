@@ -29,7 +29,7 @@
 	* Student can enter authorized discussion room.
 	* In Discussion he/she can video call and chat with teachers and other students.
 	* Student can view his/her own profile and of other students.
-	* **Redeem goodies** based on reward points collected.
+	* Redeem goodies based on reward points collected.
 
 ## Test/Quiz
 	* Contains mcq questions with one answer and every question has 10 reward points associated.

@@ -18,13 +18,22 @@
 ## Dashboard
 * Super User Dashboard
 	* **Add Teachers and Students** to the organization.
-		* points
+		* Enter Name and Email ID of teacher/student and submit, and then they can login to portal using google authentication.
 	* View details of discussion and test rooms created by teachers.
 	* Search any student by his/her emailID and View his/her profile.
 * Teacher Dashboard
-	* **Create/Edit tests and discussion rooms**.
-	* Choose which student can access the tests and discussion rooms.
+	* **Create/Edit tests**.
+		* Can schedule test start time.
+		* Choose students which can access tests.
+		* Add mcq questions with one correct answer.
+		* View Leaderboard once students have attempted the test.
+	* **Create/Edit Discussion rooms**.
+		* Choose students which can enter the room.
+		* Enter Discussion rooms.
+		* Video call and chat with students.
+		* Share screen.
 	* Search any student by his/her emailID and View his/her profile.
+	* View details of test and discussion rooms.
 * Student Dashboard
 	* **Attempt mcq tests** and for every correct answer gets `10 reward points`.
 	* Enter authorized discussion room.
@@ -33,8 +42,11 @@
 	* Redeem goodies based on reward points collected.
 
 ## Test/Quiz
-* Contains mcq questions with one correct answer and every question has 10 reward points associated.
-* Teacher can choose which student can access a particular test.
+* Teacher can create tests.
+* Teacher can choose among students, who can access the test.
+* MCQ questions can be added/removed by the teacher.
+* Each questions has to be answered within a time limit(20 seconds) .
+* Each question has 10 reward points associated.
 	
 ## DiscussionRooms
 * Has video call and chat Features.

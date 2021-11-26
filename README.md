@@ -14,8 +14,8 @@
   	- [Test/Quiz](#Test/Quiz)
   	- [DiscussionRooms](#DiscussionRooms)
   	- [Redeem](#Redeem)
-- [Screenshots](#Screenshots)
-- [Teach Stack](#Teach-Stack)
+- [Screenshots](#Screenshots-)
+- [Teach Stack](#Teach-Stack-)
 
 
 # Features :

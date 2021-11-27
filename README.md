@@ -21,7 +21,7 @@
 - [Installation Instructions](#Installation-Instructions-)
 
 # Product Overview :
- Gurukul is an `Education Portal` that helps students to stay `engaged` with their studies. Gurukul allows Teachers can create tests and students can attempt those test. For every correctly marked question the student gets 10 reward points. Student can use these reward points to redeem goodies available on the portal. 
+ Gurukul is an `Education Portal` that helps students to stay `engaged` with their studies. Gurukul allows Teachers to create tests and students can attempt those tests. For every correctly marked question the student gets 10 reward points. Student can use these reward points to redeem goodies available on the portal. 
 # Features :
 
 ## Homepage

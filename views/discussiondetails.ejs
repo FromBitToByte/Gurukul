@@ -20,11 +20,6 @@
                 <div class="card-content">
                     <div style="font-size: larger;">Room Id :  <%=discussion.roomId%></div>
                     <div style="font-size: larger;"> Time : <%=moment(discussion.scheduledTime).format('MMMM Do YYYY, h:mm:ss a')%></div>
-                    <form class="mt-4" action="/teacher/discussion/updatetiming/<%=discussion.roomId%>/<%=currentUser.email%>" method="POST" >
-                        <label>Edit Scheduled Time</label>
-                        <input type="datetime-local" value="<%=moment(discussion.scheduledTime).format('YYYY-MM-DD')%>T<%=moment(discussion.scheduledTime).format('hh:mm')%>" name="editscheduledtime">
-                        <button class="btn btn-primary black darken-1" >Change</button>
-                    </form>
               </div>
               <div class="card-action text-center">
                 <a class="btn btn-primary black darken-1" href="/teacher/dashboard/enter/discussion/classroom/<%=discussion.roomId%>?email=<%=currentUser.email%>&room=<%=discussion.roomId%>" >Enter Class</a>
@@ -39,7 +34,7 @@
         <div class="jumbotron white">
             <div class="row">
               <div class="col s12 m5">
-                <h4 class="theme-heading text-center">Allowed students1</h4>
+                <h4 class="theme-heading text-center">Allowed students</h4>
                 <div class="card-panel white-text" style="background-color: #1F2D37; font-size: medium;">
                   <% discussion.students.forEach(function(stud){%>
                     <%students.forEach(function(student){%>
@@ -79,7 +74,6 @@
               <input class="btn btn-primary" type="submit">
               </div>
             </form>
-            <a class="btn white black-text mt-5" href="/teacher/dashboard/discussion/sendemail/<%=discussion.roomId%>/<%=discussion.email%>"><i class="fas fa-envelope mr-2"></i>Send Invitation mail to all</a>
         </div>
     </div>
     <div class="seperator mt-5 "></div>
@@ -126,8 +120,7 @@
         ><i class="fas fa-desktop"></i><span>Dashboard</span></a>
         <a href="#allow"> <i class="far fa-check-circle"></i><span>Allow</span></a>
       <a class="modal-trigger" href="#chat-teacher"><i class="fas fa-comments"></i><span>Chat</span>
-    </a>
-      <a href="#upload-t"><i class="fas fa-upload"></i><span>Upload</span></a>`;
+    </a>`;
     teacherNav.innerHTML = navLinks;});
   document.querySelectorAll('.hme').forEach(link => link.href = location.hostname);
 </script>

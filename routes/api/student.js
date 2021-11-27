@@ -340,7 +340,7 @@ router.get("/dashboard/discussion/enter/classroom",async(req,res)=>{
         }
         if(discussion.students.findIndex(x=>x.email === req.query.email)===-1){
          res.redirect('/student/dashboard/discussion/enter?room'+req.params.room+'&user='+req.params.email+"&v=0");
-        }else if((new Date()).getTime() < discussion.scheduledTime.getTime()){
+        }else if( moment(new Date()) < moment(discussion.scheduledTime) ){
             console.log("Class has not started yet . Come at Scheduled Time");
             res.redirect("/student/dashboard/discussion/enter?room="+req.query.room+"&user="+req.query.email+"&v=0")
         }else {

@@ -108,7 +108,7 @@
 2. `cd ./gurukul`
 3. Install node dependencies 
    - `npm install`
-4. Replace **clientID**, **clientSecret** and **mongoURI** inside `congi/keys.js` file with your configurations.
+4. Replace **clientID**, **clientSecret** and **mongoURI** inside `congig/keys.js` file with your configurations.
 5. Create a `.env` file 
    - Add relevant credentials
    - `NODE_ENV = development` 

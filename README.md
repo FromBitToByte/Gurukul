@@ -1,7 +1,7 @@
 # Gurukul - Education Portal for Teachers and Students.
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FromBitToByte/Gurukul?logo=github&style=for-the-badge)](https://github.com/Apurva-tech/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/FromBitToByte/Gurukul?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FromBitToByte/Gurukul?logo=github&style=for-the-badge)](https://github.com/FromBitToByte/) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/FromBitToByte/Gurukul?style=for-the-badge&logo=git)](https://github.com/FromBitToByte/) 
 [![Languages](https://img.shields.io/github/languages/count/FromBitToByte/Gurukul?style=for-the-badge)](https://github.com/FromBitToByte/Gurukul)
 [![Top](https://img.shields.io/github/languages/top/FromBitToByte/Gurukul?style=for-the-badge&label=Top%20Languages)](https://github.com/FromBitToByte/Gurukul)
 [![Issues](https://img.shields.io/github/issues/FromBitToByte/Gurukul?style=for-the-badge&label=Issues)](https://github.com/FromBitToByte/Gurukul)

@@ -7,6 +7,11 @@
 [![Issues](https://img.shields.io/github/issues/FromBitToByte/Gurukul?style=for-the-badge&label=Issues)](https://github.com/FromBitToByte/Gurukul)
 [![Watchers]( https://img.shields.io/github/watchers/FromBitToByte/Gurukul?label=Watch&style=for-the-badge)](https://github.com/FromBitToByte/Gurukul/)
 
+
+# Video Demo
+[![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View)](https://youtu.be/QbvkKm3rUTU)
+
+
 ## Table of Contents 📕
 - [Product Overview](#Product-Overview-)
 - [Features](#features-)

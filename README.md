@@ -9,9 +9,7 @@
 
 
 # Video Demo
-- [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Youtube)](https://youtu.be/QbvkKm3rUTU) , - [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Google%20Drive)](https://drive.google.com/file/d/1iaKJi-wf51BJd-
-- ## Google Drive
-	12_pgrIf3IaYjhKliL/view?usp=sharing)
+- [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Youtube)](https://youtu.be/QbvkKm3rUTU) , [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Google%20Drive)](https://drive.google.com/file/d/1iaKJi-wf51BJd-12_pgrIf3IaYjhKliL/view?usp=sharing)
 	
 	
 

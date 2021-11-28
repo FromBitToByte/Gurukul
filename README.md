@@ -9,8 +9,10 @@
 
 
 # Video Demo
-[![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View)](https://youtu.be/QbvkKm3rUTU)
-
+- Youtube 
+	- [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View)](https://youtu.be/QbvkKm3rUTU)
+- Google Drive
+	- [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View)](https://drive.google.com/file/d/1iaKJi-wf51BJd-12_pgrIf3IaYjhKliL/view?usp=sharing)
 
 ## Table of Contents 📕
 - [Product Overview](#Product-Overview-)

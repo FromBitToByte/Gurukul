@@ -34,6 +34,7 @@
 * Login 
 	* Users can login as Super User/Admin, Teacher and Student using google authentication.
 	* There's no Register/Signup page, because only Super User/Admin can enroll teachers and Students in the organization, and there could be only one Admin.
+	* To create a `Super User` make your account and database on mongodb, copy the mongoURI and add it into `config/key.js`. Now create a collection `superusers` and insert one document, with **email** and **name** of the super user. Now you will be able to login using google authentication, directly to the portal.
 	
 ## Dashboard
 * Super User Dashboard

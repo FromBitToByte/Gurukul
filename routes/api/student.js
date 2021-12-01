@@ -71,7 +71,7 @@ router.get("/dashboard/entertestroom/:roomId",auth,async(req,res)=>{
         if(meeting.students.indexOf(req.user.email)===-1){
             res.redirect("/student/dashboard");
         }
-        else if(((new Date()).getTime() < meeting.scheduledTime.getTime()) || ((new Date()).getTime()>(meeting.scheduledTime.getTime()+300000)) ){
+        else if( false && ((new Date()).getTime() < meeting.scheduledTime.getTime()) || ((new Date()).getTime()>(meeting.scheduledTime.getTime()+300000)) ){
            console.log("You can not enter test now or Either you are late by five minutes and you cannot enter test now.");
            res.redirect(`/student/dashboard/test/enter?room=${req.params.roomId}&f=0`); 
         } 
@@ -340,7 +340,7 @@ router.get("/dashboard/discussion/enter/classroom",async(req,res)=>{
         }
         if(discussion.students.findIndex(x=>x.email === req.query.email)===-1){
          res.redirect('/student/dashboard/discussion/enter?room'+req.params.room+'&user='+req.params.email+"&v=0");
-        }else if( moment(new Date()) < moment(discussion.scheduledTime) ){
+        }else if( false && moment(new Date()) < moment(discussion.scheduledTime) ){
             console.log("Class has not started yet . Come at Scheduled Time");
             res.redirect("/student/dashboard/discussion/enter?room="+req.query.room+"&user="+req.query.email+"&v=0")
         }else {

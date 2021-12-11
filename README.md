@@ -23,7 +23,7 @@
   	- [Discussion Rooms](#Discussion-Rooms)
   	- [Redeem](#Redeem)
 - [Screenshots](#Screenshots-)
-- [Teach Stack](#Teach-Stack-)
+- [Tech Stack](#Tech-Stack-)
 - [Class Diagram](#Class-Diagram-)
 - [Installation Instructions](#Installation-Instructions-)
 
@@ -100,7 +100,7 @@
    - ![image](https://github.com/FromBitToByte/Gurukul/blob/main/assets/demo/giveTest.png)
 
 
-# Teach Stack :
+# Tech Stack :
    - Nodejs
    - EJS
    - HTML
